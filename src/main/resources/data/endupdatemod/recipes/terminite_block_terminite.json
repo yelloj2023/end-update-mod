@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "endupdatemod:terminite_ingot"
+    }
+  },
+  "result": {
+    "item": "endupdatemod:terminite_block"
+  }
+}

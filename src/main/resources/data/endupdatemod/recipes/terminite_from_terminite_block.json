@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "endupdatemod:terminite_block"
+    }
+  ],
+  "result": {
+    "item": "endupdatemod:terminite_ingot",
+    "count": 9
+  }
+}

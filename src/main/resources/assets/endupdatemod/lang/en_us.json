@@ -1,3 +1,13 @@
 {
-  "item.endupdatemod.terminite_ingot": "Terminite Ingot"
+  "item.endupdatemod.terminite_ingot": "Terminite Ingot",
+
+  "block.endupdatemod.terminite_block": "Block of Terminite",
+
+  "block.endupdatemod.terminite_ore": "Terminite Ore",
+
+  "item.endupdatemod.raw_terminite": "Raw Terminite",
+
+  "item.endupdatemod.alloy_detector": "Alloy Detector",
+
+  "item.endupdatemod.ender_berry": "Ender Berry"
 }

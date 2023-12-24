@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "endupdatemod:raw_terminite"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    }
+  ],
+  "result": {
+    "item": "endupdatemod:terminite_ingot"
+  }
+}
